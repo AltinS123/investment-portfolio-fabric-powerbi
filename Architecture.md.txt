@@ -1,0 +1,24 @@
+Solution Architecture
+
+Trading212 Excel
+        │
+        ▼
+OneLake Files
+        │
+        ▼
+Investment_ETL_v2 Notebook
+        │
+        ▼
+Lakehouse Delta Tables
+        │
+        ▼
+Investment_Data_Refresh Notebook
+        │
+        ▼
+stock_prices
+        │
+        ▼
+Semantic Model
+        │
+        ▼
+Power BI Dashboard
