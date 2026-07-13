@@ -9,7 +9,7 @@ The project automates the processing of Trading212 investment data, enriches it 
 
 # Dashboard Preview
 
-![Investment Portfolio Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
