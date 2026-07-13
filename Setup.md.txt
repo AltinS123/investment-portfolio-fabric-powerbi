@@ -1,0 +1,35 @@
+Prerequisites
+
+Microsoft Fabric Workspace
+
+Lakehouse
+
+Python 3.11
+
+Power BI Desktop
+
+Trading212 Portfolio Export
+
+Yahoo Finance
+
+
+
+Step 1
+
+Upload portfolio.xlsx
+
+↓
+
+Run Investment_ETL_v2
+
+↓
+
+Run Investment_Data_Refresh
+
+↓
+
+Refresh Semantic Model
+
+↓
+
+Open Power BI
