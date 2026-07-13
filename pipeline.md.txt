@@ -1,0 +1,15 @@
+Pipeline
+
+Investment_Data_Refresh
+
+↓
+
+Investment_ETL_v2
+
+↓
+
+Semantic Model Refresh
+
+↓
+
+Power BI Dashboard
