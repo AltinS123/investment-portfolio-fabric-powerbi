@@ -9,7 +9,7 @@ The project automates the processing of Trading212 investment data, enriches it 
 
 **Dashboard Preview**
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/Simple-Dashboard.png)
 
 **Pipeline Architecture**
 
