@@ -13,7 +13,7 @@ The project automates the processing of Trading212 investment data, enriches it 
 
 **Pipeline Architecture**
 
-Images/Pipeline.JPG
+![Pipeline Architecture](Images/Pipeline.JPG)
 
 ---
 
